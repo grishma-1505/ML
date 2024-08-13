@@ -1,2 +1,2 @@
 # ML
-Machine learning basic codes 
+Machine learning basic codes and projects
